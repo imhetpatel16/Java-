@@ -1,0 +1,24 @@
+Import java.util.Scanner;
+
+Public class main{
+
+Public static void main(String[] args){
+Scanner sc =new Scanner(Systerm.in);
+System.out.println(“Enter the first Number”);
+Int a = sc.nextint();
+System.out.println(“Eneter the seconf Number”);
+Int b = sc.nextint();
+Boolean c=lasrDigit(a,b);
+System.out.println(c);
+}
+
+ static boolean lastDigit(int p,int q)
+
+{
+{
+ if(p%10 == q%10)
+ return true;
+ else
+ return false;
+ }
+}
