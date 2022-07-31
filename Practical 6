@@ -42,7 +42,8 @@ public class practical_6 {
         {
             System.out.println(element);
         }
+        
+        System.out.println("This program is created by Het Patel-21CE091");
     }
-    //This program os created by Het patel -21CE091
-    
-}
+
+ }
