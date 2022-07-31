@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class Ass_4 {
+public class Practical_4 {
 
     Scanner sc = new Scanner(System.in);
-    Ass_4(int a ) {
+    pra_4(int a ) {
         int x[] = new int[a];
         System.out.println("Enter your Array -> ");
         for (int i = 0; i < a; i++) {
